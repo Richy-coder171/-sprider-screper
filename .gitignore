@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+history/
+output/
+known_products.json
+heal_events.json
+discovery_log.json
+samples/seed_*.json
+samples/.post_heal_rerun.json
+.streamlit/secrets.toml
+*.tmp
